@@ -1,0 +1,19 @@
+{
+  "version": "0.6.0",
+  "notes": "Initial public release.",
+  "pub_date": "2026-05-20T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/apvera-admin/trustarchive-releases/releases/download/v0.6.0/TrustArchive_0.6.0_x64_en-US.msi.zip",
+      "signature": ""
+    },
+    "darwin-x86_64": {
+      "url": "",
+      "signature": ""
+    },
+    "darwin-aarch64": {
+      "url": "",
+      "signature": ""
+    }
+  }
+}
