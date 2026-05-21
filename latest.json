@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/apvera-admin/trustarchive-releases/releases/download/v0.6.0/TrustArchive_0.6.0_x64_en-US.msi.zip",
-      "signature": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTblJWa282eXRtcTlIbUY0dGRFeEV2ZEIyVE1LVnNyeTh4U3ExaXA5TTNsU0czWEU4RFM1OWppbG8xdUhQd0ZmbUllRHdyR1JrbGN1enRnRjNmNXk0aGZTODkwelhlaHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzI2MDUxCWZpbGU6VHJ1c3RBcmNoaXZlXzAuNi4wX3g2NF9lbi1VUy5tc2kuemlwCjZVRllyV2U3ckFzdTZHWENFOS9YOGlQRDkxUlZENmhwZUJBcFowREdJckFKeDIxZGl1MkFTUEplczhWTVVnVmtZb1l1czNSQ1JvWU1GR0NQL1hlYUJ3PT0K"
     },
     "darwin-x86_64": {
       "url": "",
