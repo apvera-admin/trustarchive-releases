@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.0.4",
-    "notes":  "v1.0.4 - First signed 1.0.x release. v1 setup wizard, journal_entries migration safety fix. Existing 0.6.x users: download .msi manually (signing key was rotated).",
-    "pub_date":  "2026-05-23T19:40:30Z",
+    "version":  "1.1.0",
+    "notes":  "v1.1.0 - Role architecture, Trust Portfolio admin tabs, first-run bug fixes. See release notes.",
+    "pub_date":  "2026-05-24T22:29:01Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/apvera-admin/trustarchive-releases/releases/download/v1.0.4/TrustArchive_1.0.4_x64_en-US.msi.zip",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYjQrRDlSTWpiazBpUThvNUE5R3YyYUk2QS8yVUdVLzhQSGsxWC8ra3hDell1ZjBodFd1clVYMXpQK2NoaDVHV2MwdGFKMWRzSzhGZER5RmM4cmhtRnNFVFFLRi9Ia1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTY1MDgxCWZpbGU6VHJ1c3RBcmNoaXZlXzEuMC40X3g2NF9lbi1VUy5tc2kuemlwClZoZi81VFY0UDlKbG9CYk02SnhWNzdBdnBQVms5MHUyRlJvNi85RUt6U3kzRmdybndHdTNyV3FRZkNOaWc3RUkxOGRIM2pDakdwNHpJM1FCd2VZRUJBPT0K"
+                                             "url":  "https://github.com/apvera-admin/trustarchive-releases/releases/download/v1.1.0/TrustArchive_1.1.0_x64_en-US.msi.zip",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYjQrRDlSTWpiazlmaC9IUy92OU9vb3ZmYWJUcHRVV2YzaDkxMHdWQjAzZ2FEYTFoZVEweDI0b0FkUTJraUYxQVFEdFgrLzFXVmtRQWtKUStlWVljTHVjYmUyTmxvTVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjYxNjcxCWZpbGU6VHJ1c3RBcmNoaXZlXzEuMS4wX3g2NF9lbi1VUy5tc2kuemlwCnphWEc2V1c1b1dMZFE1OXdOZnhyTEpFR3NmcXF6WG8zRTBFZmNaYkN1S1pURldtaW1pR0d2UEpNb2t2ZnVTdUtQSmoyZHRpT1BLNzlEUEw4NjNZZEJRPT0K"
                                          },
                       "darwin-x86_64":  {
                                             "url":  "",
