@@ -1,11 +1,11 @@
-﻿{
-    "version":  "1.1.0",
-    "notes":  "v1.1.0 - Role architecture, Trust Portfolio admin tabs, first-run bug fixes. See release notes.",
-    "pub_date":  "2026-05-24T22:29:01Z",
+{
+    "version":  "1.2.0",
+    "notes":  "Security and reliability improvements to local data encryption and the audit trail. This update is recommended for all users. Your existing data is upgraded automatically on first launch, and a backup of the previous database is kept on your machine.",
+    "pub_date":  "2026-08-24T00:39:11Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/apvera-admin/trustarchive-releases/releases/download/v1.1.0/TrustArchive_1.1.0_x64_en-US.msi.zip",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYjQrRDlSTWpiazlmaC9IUy92OU9vb3ZmYWJUcHRVV2YzaDkxMHdWQjAzZ2FEYTFoZVEweDI0b0FkUTJraUYxQVFEdFgrLzFXVmtRQWtKUStlWVljTHVjYmUyTmxvTVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjYxNjcxCWZpbGU6VHJ1c3RBcmNoaXZlXzEuMS4wX3g2NF9lbi1VUy5tc2kuemlwCnphWEc2V1c1b1dMZFE1OXdOZnhyTEpFR3NmcXF6WG8zRTBFZmNaYkN1S1pURldtaW1pR0d2UEpNb2t2ZnVTdUtQSmoyZHRpT1BLNzlEUEw4NjNZZEJRPT0K"
+                                             "url":  "https://github.com/apvera-admin/trustarchive-releases/releases/download/v1.2.0/TrustArchive_1.2.0_x64_en-US.msi.zip",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYjQrRDlSTWpiazB1N0xIMHNXbWdXb1dQdnBESGJ5U085YWFFSWxxWnYrWU1idzk4MGhsTjRRQ0pCNThEbHM2aFZIenJMVnRsRFgyUGQrL0NlMzhqRWJObkIwOXl6TGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTMxOTMyCWZpbGU6VHJ1c3RBcmNoaXZlXzEuMi4wX3g2NF9lbi1VUy5tc2kuemlwCnQzR0szWWlmSERmenJqcVluUWEvZnc3Y05GSVJJZnoyWG5TNE5CNjB0TG1TZlQzVmoxVXhiRGliVUhZSTk3cGxFdUVsUWZQV2pjK252SzhUM1lkSERRPT0K"
                                          },
                       "darwin-x86_64":  {
                                             "url":  "",
